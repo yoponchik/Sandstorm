@@ -11,9 +11,11 @@ Stage One– Kill the enemies and find the key to the Boss Stage
 
 Final Stage – Kill the Boss
 
-**Project Details:**
+<h2>Project Details:</h2>
 
- Made in Unity Engine
+**Project Date:** 2021.07
+
+**Game Engine:** Unity Engine
 
 ----------
 
