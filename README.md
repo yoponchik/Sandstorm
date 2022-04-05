@@ -1,6 +1,8 @@
 # Sandstorm: 3D RPG Game
 
-![Alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6e41a2e-4a0a-4101-91ed-2e3e4f430bb1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T060029Z&X-Amz-Expires=86400&X-Amz-Signature=290298a84a3e19cdbc74a6320e2794fb2e2b5c759721f86d8a47d95b182d23b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://user-images.githubusercontent.com/57009810/161730230-d6221867-0132-483c-9224-a1ae329204ec.png)
+
+_A 3D RPG Game_
 
 **Game Story:** A dog chases after his owner that is kidnapped by an evil wizard. Discovering that animals develop supernatural powers, the dog sets off to find his owner.  
 
@@ -17,17 +19,17 @@ Final Stage – Kill the Boss
 
 **Game Engine:** Unity Engine
 
-----------
+<h2>Development Process:</h2>
 
-<h2>Prototype Design</h2>
+<h3>Prototype Design</h3>
 
 ![image](https://user-images.githubusercontent.com/57009810/161484052-5367986c-4241-4c5e-a015-275bf734a32f.png)
 
-<h2>Alpha Design</h2>
+<h3>Alpha Design</h3>
 
 ![image](https://user-images.githubusercontent.com/57009810/161484333-45a946f8-83d0-41b2-a88e-317e465198bf.png)
 
-<h2>Beta Design</h2>
+<h3>Beta Design</h3>
 
 ![image](https://user-images.githubusercontent.com/57009810/161484498-d7b0ec1c-a44f-4858-8a0c-101d8cb31113.png)
 
@@ -39,7 +41,6 @@ Final Stage – Kill the Boss
 
 ![image](https://user-images.githubusercontent.com/57009810/161484567-f04e79ca-ba47-4917-93b9-08c21cae4b32.png)
 
------------------
 
 <h2>Map</h2>
 
@@ -57,7 +58,7 @@ Final Stage – Kill the Boss
 
 <h3>Portal to the Boss Stage</h3>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/739a675c-5d26-4cf8-92f3-9f72c0c242a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T062220Z&X-Amz-Expires=86400&X-Amz-Signature=377e84866f3b486b0bc3c62bb125e06eb5fe218fb4873adbe9f947e8d5ae98bc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://user-images.githubusercontent.com/57009810/161730623-17762787-85bf-48c0-a86b-3c0fa8e35d60.png)
 
 <h3>Boss Stage</h3>
 
