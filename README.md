@@ -35,7 +35,7 @@ Final Stage – Kill the Boss
 
 <h2>Enemy</h2>
 
-<img width="865" alt="Screen%20Shot%202021-12-29%20at%2011 52 54%20PM" src="https://user-images.githubusercontent.com/57009810/167853388-eb2cc115-647e-4e5b-8857-77f4722cad30.png">
+< alt="Screen%20Shot%202021-12-29%20at%2011 52 54%20PM" src="https://user-images.githubusercontent.com/57009810/167853388-eb2cc115-647e-4e5b-8857-77f4722cad30.png">
 
 
 <h2>Enemy Behavior Tree</h2>
@@ -51,12 +51,12 @@ Final Stage – Kill the Boss
 
 <h3>Map: Floating bricks to give a supernatural atmosphere</h3>
 
-<img width="369" alt="Untitled" src="https://user-images.githubusercontent.com/57009810/167853479-03e60287-6f17-4bb5-a538-3b6e8775c54b.png">
+<alt="Untitled" src="https://user-images.githubusercontent.com/57009810/167853479-03e60287-6f17-4bb5-a538-3b6e8775c54b.png">
 
 
 <h3>Door to the Boss Stage</h3>
 
-<img width="391" alt="Untitled-2" src="https://user-images.githubusercontent.com/57009810/167853437-620cb41c-509a-450e-8b6d-f89d2d95437b.png">
+<alt="Untitled-2" src="https://user-images.githubusercontent.com/57009810/167853437-620cb41c-509a-450e-8b6d-f89d2d95437b.png">
 
 
 <h3>Portal to the Boss Stage</h3>
@@ -65,6 +65,6 @@ Final Stage – Kill the Boss
 
 <h3>Boss Stage</h3>
 
-<img width="333" alt="Untitled-3" src="https://user-images.githubusercontent.com/57009810/167853462-dce8c998-d8c0-45ce-a52d-6f8f706e0e2c.png">
+< alt="Untitled-3" src="https://user-images.githubusercontent.com/57009810/167853462-dce8c998-d8c0-45ce-a52d-6f8f706e0e2c.png">
 
 
