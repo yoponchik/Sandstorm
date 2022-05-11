@@ -55,7 +55,7 @@ Final Stage – Kill the Boss
 
 <h3>Door to the Boss Stage</h3>
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fed7b063-e575-4129-b5e3-2fe347368471/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124426Z&X-Amz-Expires=86400&X-Amz-Signature=ffaeac101099eed4000081ffe0805bfb1898980bc9c6139b0f36801fc079969e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852680-401fa6ef-257e-4540-8c53-4b33d1a6135e.png)
+
 
 <h3>Portal to the Boss Stage</h3>
 
