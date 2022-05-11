@@ -51,7 +51,6 @@ https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f9ca189-a89b-471f-9
 
 <h3>Map: Floating bricks to give a supernatural atmosphere</h3>
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6fcb4ce-9efd-4127-9a43-60ddee420327/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124352Z&X-Amz-Expires=86400&X-Amz-Signature=b7f472402fbaec9406eda2d6b7dc1b89a1ddb5676adbc228de0c03f402c5b923&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852596-bca535c4-4aa4-4eb4-a7d1-716218e5eb23.png)
 
 
 <h3>Door to the Boss Stage</h3>
@@ -64,6 +63,5 @@ https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fed7b063-e575-4129-b
 
 <h3>Boss Stage</h3>
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b4d7ab0-5687-48e9-8c37-03d5b0f8eebe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124448Z&X-Amz-Expires=86400&X-Amz-Signature=55a08221732a197404036d243b09c7c7f84847ba94a44ac04cfa14b95c52215a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852752-8121a5c2-dcab-42bd-b305-08910a1b59a9.png)
 
 
