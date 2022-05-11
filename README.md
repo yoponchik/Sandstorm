@@ -35,7 +35,8 @@ Final Stage – Kill the Boss
 
 <h2>Enemy</h2>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f9ca189-a89b-471f-9761-af29c0d3b67a/Screen_Shot_2021-12-29_at_11.52.54_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T061820Z&X-Amz-Expires=86400&X-Amz-Signature=9828e6c79f481dfca1bcb0b1c53b668d047bcd4e90f7e244cce291b653da2266&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202021-12-29%2520at%252011.52.54%2520PM.png%22&x-id=GetObject)
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f9ca189-a89b-471f-9761-af29c0d3b67a/Screen_Shot_2021-12-29_at_11.52.54_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124317Z&X-Amz-Expires=86400&X-Amz-Signature=e1090272a2cd9b8f12ff4448817692c3153d55fc4c76dd90c5dece22842929cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202021-12-29%2520at%252011.52.54%2520PM.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852486-cbc597f8-51c6-48a0-a551-22a9a6d33e08.png)
+
 
 <h2>Enemy Behavior Tree</h2>
 
@@ -50,11 +51,12 @@ Final Stage – Kill the Boss
 
 <h3>Map: Floating bricks to give a supernatural atmosphere</h3>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6fcb4ce-9efd-4127-9a43-60ddee420327/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T062210Z&X-Amz-Expires=86400&X-Amz-Signature=86a352bf35624900bbb705edcfe147bb198112e3f00a4e69377a4da775f3677e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6fcb4ce-9efd-4127-9a43-60ddee420327/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124352Z&X-Amz-Expires=86400&X-Amz-Signature=b7f472402fbaec9406eda2d6b7dc1b89a1ddb5676adbc228de0c03f402c5b923&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852596-bca535c4-4aa4-4eb4-a7d1-716218e5eb23.png)
+
 
 <h3>Door to the Boss Stage</h3>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fed7b063-e575-4129-b5e3-2fe347368471/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T062218Z&X-Amz-Expires=86400&X-Amz-Signature=1e16ee8c0817fd7eff530e40307033c63e8b4fa822368d7149f7c86a0dc57eaa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fed7b063-e575-4129-b5e3-2fe347368471/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124426Z&X-Amz-Expires=86400&X-Amz-Signature=ffaeac101099eed4000081ffe0805bfb1898980bc9c6139b0f36801fc079969e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852680-401fa6ef-257e-4540-8c53-4b33d1a6135e.png)
 
 <h3>Portal to the Boss Stage</h3>
 
@@ -62,5 +64,6 @@ Final Stage – Kill the Boss
 
 <h3>Boss Stage</h3>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b4d7ab0-5687-48e9-8c37-03d5b0f8eebe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220404%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220404T062222Z&X-Amz-Expires=86400&X-Amz-Signature=ad0f00df049f83a22f1b885fc8d378e01afd7b23af147012f4f49ed2807cf8ed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b4d7ab0-5687-48e9-8c37-03d5b0f8eebe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220511T124448Z&X-Amz-Expires=86400&X-Amz-Signature=55a08221732a197404036d243b09c7c7f84847ba94a44ac04cfa14b95c52215a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject![image](https://user-images.githubusercontent.com/57009810/167852752-8121a5c2-dcab-42bd-b305-08910a1b59a9.png)
+
 
