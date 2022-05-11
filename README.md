@@ -65,6 +65,6 @@ Final Stage – Kill the Boss
 
 <h3>Boss Stage</h3>
 
-< alt="Untitled-3" src="https://user-images.githubusercontent.com/57009810/167853462-dce8c998-d8c0-45ce-a52d-6f8f706e0e2c.png">
+<img alt="Untitled-3" src="https://user-images.githubusercontent.com/57009810/167853462-dce8c998-d8c0-45ce-a52d-6f8f706e0e2c.png">
 
 
